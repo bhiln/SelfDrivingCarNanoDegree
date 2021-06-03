@@ -1,0 +1,51 @@
+[submodule "CarND-Capstone"]
+	path = CarND-Capstone
+	url = git@github.com:bhiln/CarND-Capstone.git
+[submodule "CarND-Path-Planning-Project"]
+	path = CarND-Path-Planning-Project
+	url = git@github.com:bhiln/CarND-Path-Planning-Project.git
+[submodule "CarND-Semantic-Segmentation"]
+	path = CarND-Semantic-Segmentation
+	url = git@github.com:bhiln/CarND-Semantic-Segmentation.git
+[submodule "CarND-MPC-Project"]
+	path = CarND-MPC-Project
+	url = git@github.com:bhiln/CarND-MPC-Project.git
+[submodule "CarND-MPC-Quizzes"]
+	path = CarND-MPC-Quizzes
+	url = git@github.com:bhiln/CarND-MPC-Quizzes.git
+[submodule "CarND-PID-Control-Project"]
+	path = CarND-PID-Control-Project
+	url = git@github.com:bhiln/CarND-PID-Control-Project.git
+[submodule "CarND-Object-Detection-Lab"]
+	path = CarND-Object-Detection-Lab
+	url = git@github.com:bhiln/CarND-Object-Detection-Lab.git
+[submodule "CarND-Kidnapped-Vehicle-Project"]
+	path = CarND-Kidnapped-Vehicle-Project
+	url = git@github.com:bhiln/CarND-Kidnapped-Vehicle-Project.git
+[submodule "CarND-Unscented-Kalman-Filter-Project"]
+	path = CarND-Unscented-Kalman-Filter-Project
+	url = git@github.com:bhiln/CarND-Unscented-Kalman-Filter-Project.git
+[submodule "CarND-Extended-Kalman-Filter-Project"]
+	path = CarND-Extended-Kalman-Filter-Project
+	url = git@github.com:bhiln/CarND-Extended-Kalman-Filter-Project.git
+[submodule "CarND-Vehicle-Detection"]
+	path = CarND-Vehicle-Detection
+	url = git@github.com:bhiln/CarND-Vehicle-Detection.git
+[submodule "CarND-Advanced-Lane-Lines"]
+	path = CarND-Advanced-Lane-Lines
+	url = git@github.com:bhiln/CarND-Advanced-Lane-Lines.git
+[submodule "CarND-Behavioral-Cloning-P3"]
+	path = CarND-Behavioral-Cloning-P3
+	url = git@github.com:bhiln/CarND-Behavioral-Cloning-P3.git
+[submodule "CarND-Traffic-Sign-Classifier-Project"]
+	path = CarND-Traffic-Sign-Classifier-Project
+	url = git@github.com:bhiln/CarND-Traffic-Sign-Classifier-Project.git
+[submodule "CarND-LaneLines-P1"]
+	path = CarND-LaneLines-P1
+	url = git@github.com:bhiln/CarND-LaneLines-P1.git
+[submodule "CarND-LeNet-Lab"]
+	path = CarND-LeNet-Lab
+	url = git@github.com:bhiln/CarND-LeNet-Lab.git
+[submodule "CarND-Camera-Calibration"]
+	path = CarND-Camera-Calibration
+	url = git@github.com:bhiln/CarND-Camera-Calibration.git
